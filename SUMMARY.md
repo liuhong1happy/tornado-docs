@@ -17,7 +17,7 @@
     * [tornado.template-灵活的输出生成器](webframework/template.md)
     * [tornado.escape-字符编码与字符串操纵](webframework/escape.md)
     * [tornado.locale-国际化支持](webframework/locale.md)
-    * [tornado.websocket-与浏览器双向通信)(webframework/websocket.md)
+    * [tornado.websocket-与浏览器双向通信](webframework/websocket.md)
 * [Http servers和clients](http/README.md)
     * [tornado.httpserver-非阻塞HTTP服务端](http/httpserver.md)
     * [tornado.httpclient-异步HTTP客户端](http/httpclient.md)
