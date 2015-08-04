@@ -11,7 +11,7 @@
     * [tornado web应用框架](guide/structure.md)
     * [模板和UI](guide/templates.md)
     * [身份验和安全](guide/security.md)
-    * [运行和部署](guide/runing.md)
+    * [运行和部署](guide/running.md)
 * [web框架](webframework/README.md)
     * [tornado.web-RequestHandler和Application类](webframework/web.md)
     * [tornado.template-灵活的输出生成器](webframework/template.md)
