@@ -5,7 +5,7 @@
 * [快速开始](quicklystart.md) *2015-08-21 liuhong1happy*
 * [用户指南](guide/README.md) 
     * [概述](guide/intro.md) *2015-08-21 liuhong1happy*
-    * [异步非阻塞IO](guide/async.md)
+    * [异步和非阻塞IO](guide/async.md) *2015-08-22 liuhong1happy*
     * [协同程序(Coroutines)](guide/coroutines.md)
     * [`Queue`示例-一个并发网络爬虫](guide/queues.md)
     * [tornado web应用框架](guide/structure.md)
